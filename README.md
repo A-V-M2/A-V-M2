@@ -64,7 +64,6 @@ I'm constantly innovating and expanding my skills in these areas, staying at the
 
 Feel free to contact me by email or connect with me on LinkedIn to discuss potential collaborations or opportunities in the exciting fields of AI, machine learning, and core model development.</p>
 
-<
 <h3>Where to find me</h3>
 <p><a href="https://github.com/A-V-M2" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/a-v-m-/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/@lil-AVM" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
